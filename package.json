@@ -3,7 +3,7 @@
   "version": "3.2.2",
   "description": "A jest result processor that generates junit xml files",
   "main": "index.js",
-  "repository": "https://github.com/palmerj3/jest-junit",
+  "repository": "https://github.com/GefenOnline/jest-junit",
   "author": "Jason Palmer",
   "license": "Apache-2.0",
   "engines": {
